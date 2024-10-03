@@ -1,0 +1,26 @@
+body{
+  background-color: #cca3ed;
+  text-align: center;
+
+}
+h1{
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+input, button{
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  box-shadow: yellowgreen 0px 2px 10px 0px ;
+}
+button{
+  width: fit-content;
+}
+.highlight {
+background-color: yellow;
+}
+.error{
+  background-color: lightcoral;
+  border: red;
+}
