@@ -7,6 +7,7 @@ const quotes = [
   'Nothing clears up a case so much as stating it to another person',
   'Education never ends, Watson. Life is a series of learning and learning until the day we die.'
 ];
+
 let words = [];  //it will store all the words for the current quotes 
 let wordIndex = 0;  // it is usefull to keep track where the user has reached yet
 let startTime = Date.now();
